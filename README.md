@@ -10,3 +10,8 @@ it's also my first try uploading stuff to github. i still have to learn alot, so
 
 ecwid api
 - post a new product
+
+## to do:
+
+- mysql database with all the products
+- php admin login for creating and deleting products in ecwid shop
